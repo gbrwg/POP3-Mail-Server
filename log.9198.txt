@@ -1,0 +1,4 @@
+server: waiting for connections...
+server: got connection from ::ffff:127.0.0.1
+5: Command is NOOP
+5: Command is QUIT
